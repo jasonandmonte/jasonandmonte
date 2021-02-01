@@ -1,16 +1,33 @@
-### Hi there 👋
+<!-- Art by: https://github.com/DanCRichards/ASCII-Art-Splash-Screen -->
 
-<!--
-**jasonandmonte/jasonandmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+             ,----------------,              ,---------,
+        ,-----------------------,          ,"        ,"|
+      ,"                      ,"|        ,"        ,"  |
+     +-----------------------+  |      ,"        ,"    |
+     |  .-----------------.  |  |     +---------+      |
+     |  |                 |  |  |     | -==----'|      |
+     |  | $npm run dev    |  |  |     |         |      |
+     |  |                 |  |  |/----|`---=    |      |
+     |  |                 |  |  |   ,/|==== ooo |      ;
+     |  |                 |  |  |  // |(((( [33]|    ,"
+     |  `-----------------'  |," .;'| |((((     |  ,"
+     +-----------------------+  ;;  | |         |,"     
+        /_)______________(_/  //'   | +---------+
+   ___________________________/___  `,
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+/_==__==========__==_ooo__ooo=_/'   /___________,"
+`-----------------------------'
+```
 
-Here are some ideas to get you started:
+### Hello! I'm Jason. 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Developer and enjoy solving problems with all things JavaScript.
+
+### Feel free to connect with me!
+
+<a href="https://stackoverflow.com/users/7582783/jasonandmonte"><img height="30" src="./icons/stackoverflow.svg"></a>&nbsp;&nbsp;
+<a href="https://www.codewars.com/users/jasonandmonte"><img height="30" src="./icons/codewars.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jasonlgonzales/"><img height="30" src="./icons/linkedin.svg"></a>
+
