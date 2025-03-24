@@ -7,7 +7,7 @@
      +-----------------------+  |      ,"        ,"    |
      |  .-----------------.  |  |     +---------+      |
      |  |                 |  |  |     | -==----'|      |
-     |  | $ npm run dev   |  |  |     |         |      |
+     |  | $               |  |  |     |         |      |
      |  |                 |  |  |/----|`---=    |      |
      |  |                 |  |  |   ,/|==== ooo |      ;
      |  |                 |  |  |  // |(((( [33]|    ,"
@@ -23,7 +23,7 @@
 
 ### Hello! I'm Jason. 👋
 
-I am a Software Developer and enjoy solving problems with all things JavaScript.
+I am a Software Developer and enjoy solving problems and studying programming languages.
 
 ### Feel free to connect with me!
 
